@@ -1,2 +1,2 @@
 # PRODIGY_TrackCode_01
-ML project on House price predictions
+ML model on House price predictions
