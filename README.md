@@ -1,2 +1,2 @@
-# PRODIGY_ML_01
+# House Price Prediction
 ML model on House price predictions
